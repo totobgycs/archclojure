@@ -1,6 +1,6 @@
 # archclojure
 Archlinux docker image with Clojure, Eclipse and Counterclockwise based on [totobgycs/archjava](https://registry.hub.docker.com/u/totobgycs/archjava/).
-It contains Clojure and [Counterclockwise](http://www.ccw-ide.org/). 
+It contains [Clojure](clojure.org), [Leiningen](leiningen.org) and [Counterclockwise](http://www.ccw-ide.org/). 
 
 Usage:
 
